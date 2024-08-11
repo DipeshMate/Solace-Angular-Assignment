@@ -1,14 +1,11 @@
+[Demo of Assignment](https://solace-angular-assignment.vercel.app/)
 
 ## Setup Your Project
+#### `npx create-react-app api-key-set --template typescript`
+#### `cd api-key-manager`
 
-Initialize a new React project with TypeScript:
+## Install Necessary Dependencies
+#### `npm install styled-components @types/styled-components`
 
-### `npx create-react-app api-key-set --template typescript`
-### `cd api-key-manager`
-Install necessary dependencies:
-
-### `npm install styled-components @types/styled-components`
-
-## Running the Project
-
-###  `npm start`
+## To Run a Project
+####  `npm start`
